@@ -8,5 +8,5 @@
 }
 
 body{
-    background-color: -var(--fundo);
+    background-color: var(--fundo);
 }
