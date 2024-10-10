@@ -16,6 +16,6 @@ footer{
     bottom: 0;
     background-color: var(--destaque);
     color: var(--preto);
-    width: 105%;
+    width: 100%;
     text-align: center;
 }
