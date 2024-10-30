@@ -32,3 +32,9 @@ footer{
     text-align: center;
     font-size: 130%;
 }
+
+#container{
+    padding: 48px;
+    display: grid;
+    gap: 2rem;
+}
